@@ -2,7 +2,7 @@
 
 ![Funny Coding GIF](https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif)
 
-Welcome to my GitHub! I'm a developer passionate about building web applications and exploring new technologies. On my profile, you'll find projects built with Django, Flask, FastAPI, and other Python tools.
+Welcome to my GitHub! I'm a developer passionate about building web applications, find solutions to the most questions with delight code and exploring new technologies. On my profile, you'll find projects built with Django, Flask, FastAPI, and other Python tools.
 
 ---
 
