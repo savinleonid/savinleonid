@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leonid Savin!
 
-![Funny Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
+![Funny Coding GIF](https://media.giphy.com/media/xoicctrOv5aGw6mCZi/giphy.gif)
 
 Welcome to my GitHub! I'm a developer passionate about building web applications and exploring new technologies. On my profile, you'll find projects built with Django, Flask, FastAPI, and other Python tools.
 
