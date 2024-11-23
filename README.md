@@ -12,7 +12,14 @@ Welcome to my GitHub! I'm a developer passionate about building web applications
 - Databases: PostgreSQL, SQLite
 - Version Control: Git, GitHub
 - Basics of HTML and CSS
-
+- MVT, OOP
+- Aiogram
+- Principal of automatisation and Testing with Pytest
+- Work with API endpoints and site parsing
+- Scripting
+- Flutter for cross-platform apps, Java for Android platform apps
+- C/C++
+- Languages: English, Russian, Turkish
 ---
 
 ## 🌟 My Top Projects
