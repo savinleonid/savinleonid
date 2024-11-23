@@ -34,8 +34,8 @@
 
 ## 📫 Как связаться со мной?
 
-- Email: [savin.leonid@example.com](mailto:savin.leonid@example.com)
-- LinkedIn: [Мой профиль](https://linkedin.com/in/savinleonid)
+- Email: [savin.leonid@example.com](mailto:savinleonid94@gmail.com)
+- https://t.me/savinleonid
 
 ---
 
