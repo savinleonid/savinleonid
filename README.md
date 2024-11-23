@@ -1,42 +1,42 @@
-# 👋 Привет, я Леонид Савин!
+# 👋 Hi, I'm Leonid Savin!
 
-Добро пожаловать на мой GitHub! Я разработчик, увлеченный созданием веб-приложений и изучением новых технологий. В моем профиле вы найдете проекты, связанные с Django, Flask, FastAPI и другими инструментами Python.
+Welcome to my GitHub! I'm a developer passionate about building web applications and exploring new technologies. On my profile, you'll find projects built with Django, Flask, FastAPI, and other Python tools.
 
 ---
 
-## 🛠️ Навыки
+## 🛠️ Skills
 
 - Python: Django, Flask, FastAPI
-- Базы данных: PostgreSQL, SQLite
-- Контроль версий: Git, GitHub
-- Основы HTML и CSS
+- Databases: PostgreSQL, SQLite
+- Version Control: Git, GitHub
+- Basics of HTML and CSS
 
 ---
 
-## 🌟 Мои топовые проекты
+## 🌟 My Top Projects
 
 - [**HandMe**](https://github.com/savinleonid/HandMe)  
-  Платформа для продажи и покупки б/у товаров. Разработано с использованием Django.
+  A platform for buying and selling second-hand items, built with Django.
 
 - [**Handme_Flask**](https://github.com/savinleonid/Handme_Flask)  
-  Легкая версия приложения на Flask с основным функционалом.
+  A lightweight version of the application using Flask with core functionality.
 
 - [**Handme_FastAPI**](https://github.com/savinleonid/Handme_FastAPI)  
-  Современная версия приложения для продажи б/у товаров. Используется FastAPI для быстрого и удобного бэкенда.
+  A modern version of the platform for second-hand goods, featuring a fast and efficient backend powered by FastAPI.
 
 ---
 
-## 📈 Статистика GitHub
+## 📈 GitHub Stats
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=savinleonid&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=savinleonid&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Как связаться со мной?
+## 📫 How to Reach Me?
 
-- Email: [savin.leonid@example.com](mailto:savinleonid94@gmail.com)
+- Email: [savinleonid94@gmail.com](mailto:savinleonid94@gmail.com)
 - https://t.me/savinleonid
 
 ---
 
-✨ Спасибо за визит! Не забудьте поставить ⭐ на проекты, которые вам понравятся!
+✨ Thank you for visiting! Don’t forget to ⭐ the projects you like!
