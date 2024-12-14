@@ -35,12 +35,6 @@ Welcome to my GitHub! I'm a developer passionate about building web applications
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=savinleonid&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to Reach Me?
 
 - Email: [savinleonid94@gmail.com](mailto:savinleonid94@gmail.com)
