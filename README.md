@@ -9,13 +9,15 @@ Welcome to my GitHub! I'm a developer passionate about building web applications
 ## 🛠️ Skills
 
 - Python: Django, Flask, FastAPI
-- Databases: PostgreSQL, SQLite
+- Databases: PostgreSQL, SQLite, Redis
+- Docker, docker-compose
 - Version Control: Git, GitHub
-- Basics of HTML and CSS
+- reverse proxy w/ nginx, IIS
+- Basics of HTML, CSS and JavaScript
 - MVT, OOP
 - Aiogram
-- Principal of automatisation and Testing with Pytest
-- Work with API endpoints and site parsing
+- Testing: pytest, unittest
+- Site parsing
 - Scripting
 - Flutter for cross-platform apps, Java for Android platform apps
 - C/C++
